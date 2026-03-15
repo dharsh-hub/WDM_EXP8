@@ -115,7 +115,24 @@ visualize_product_data(products)
 ```
 
 ### Output:
+<img width="510" height="691" alt="image" src="https://github.com/user-attachments/assets/e9770388-e34a-4b92-8364-e479fa415c92" />
 
+
+
+
+<img width="497" height="932" alt="image" src="https://github.com/user-attachments/assets/a98ebe90-66b1-4d95-b7a3-d7f9fff040eb" />
+
+
+
+
+
+<img width="719" height="100" alt="image" src="https://github.com/user-attachments/assets/1374577a-3b76-48d7-b58e-e357f503c6aa" />
+
+
+
+
+
+<img width="1349" height="879" alt="image" src="https://github.com/user-attachments/assets/0fa7e3c6-cc26-4c0b-ba0b-ee737555c068" />
 
 ### Result:
 Web Scraping On E-commerce platform using BeautifulSoup has been done successfully.
